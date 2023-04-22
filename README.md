@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:shella12/budget-app.git
+  git clone git@github.com:shella12/helloBackend.git
 ```
 
 ### Run
