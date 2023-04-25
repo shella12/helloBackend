@@ -25,7 +25,7 @@
 
 # 📖 [Hello Rails] <a name="about-project"></a>
 
-The **Hello Rails app** is just a plain greeting api built using rails
+The **Hello Rails app** is just a plain greeting api built using rails for my [React Greeting](https://github.com/shella12/helloFrontend) app
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:shella12/budget-app.git
+  git clone git@github.com:shella12/helloBackend.git
 ```
 
 ### Run
